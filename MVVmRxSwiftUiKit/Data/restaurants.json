@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Blue Legume",
+        "cuisine": "european"
+    },
+    {
+        "name": "McDonalds",
+        "cuisine": "american"
+    },
+    {
+        "name": "Taco Stand",
+        "cuisine": "mexican"
+    },
+    {
+        "name": "Kabab Shop",
+        "cuisine": "mediterranean"
+    },
+    {
+        "name": "Taco Bell",
+        "cuisine": "mexican"
+    },
+    {
+        "name": "Port of Peri Peri",
+        "cuisine": "portuguese"
+    }
+]
